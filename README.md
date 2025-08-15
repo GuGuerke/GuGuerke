@@ -1,16 +1,25 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**GuGuerke/GuGuerke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Me chamo Gustavo Costa Guerke, tenho 22 anos, <strong>Data Analyst</strong>.<br>
+  Transformo dados em insights estratégicos.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🤖 Linguagens: DAX, M, SQL, Python e VBA.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Ferramentas: Power BI, Azure DevOps, Git, Databricks, SQL Server, Power Apps, Google Sheets, Python e Excel.
+</p>
+
+<p align="left">
+  📩 Meus contatos: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gustavoguerke@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/gustavoguerke" alt="LinkedIn"/></a>
+</p>
