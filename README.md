@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: Power BI, Azure DevOps, Git, Databricks, SQL Server, Power Apps, Google Sheets, Python e Excel.
+  💼 Ferramentas: Power BI, Looker, BigQuery, Amazon Redshift, Azure DevOps, Git, Databricks, SQL Server, Power Apps, Google Sheets, N8N, Python e Excel.
 </p>
 
 <p align="left">
@@ -25,3 +25,4 @@
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
