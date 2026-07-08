@@ -9,12 +9,31 @@
 <h2 align="center">Hello, I’m Gustavo 👋</h2>
 
 <p align="center">
-  Data Engineer | Building data pipelines & analytics solutions | Azure · ADF · Databricks · SQL · Python
+  Data Engineer | Databricks · PySpark · SQL · dbt · Delta Lake · Azure · CI/CD
 </p>
 
 ---
 
-Data Engineer with experience in designing and implementing data solutions in cloud environments, focused on pipeline development, data integration, and process automation to support business decision-making. Experienced in stakeholder management and direct client interaction, bridging technical teams and business areas to ensure data solutions are aligned with real needs.
+## 👨‍💻 About me
+
+I am a Data Engineer with experience in designing, developing, and maintaining modern data solutions in cloud and lakehouse environments.
+
+My work is focused on data ingestion, transformation, orchestration, data quality, automation, and analytics enablement. I have experience building data pipelines following Medallion Architecture principles, working across Landing, Bronze, Silver, and Gold layers to deliver reliable and scalable data products.
+
+Currently, I work with a modern data engineering development model based on local development, Git-based workflows, Pull Requests, automated validations, reusable framework components, and controlled deployments to Databricks environments.
+
+I also have experience collaborating with technical teams, business areas, and stakeholders, helping bridge business needs and scalable data solutions.
+
+---
+
+## 🚀 Current Focus
+
+- Building scalable data pipelines with **Databricks, PySpark, SQL, and Delta Lake**
+- Developing transformations and analytical models with **dbt**
+- Working with **Medallion Architecture** and lakehouse-based data platforms
+- Applying **Data Quality** rules and validation processes across data layers
+- Using **local development**, **Git**, **Pull Requests**, **CI/CD**, and automated deployment practices
+- Supporting data consumption for analytics, reporting, BI, and business teams
 
 ---
 
@@ -31,21 +50,25 @@ Data Engineer with experience in designing and implementing data solutions in cl
 
 ---
 
-## 🛠️ Main Skills and Experience 
+## 🛠️ Main Skills and Experience
 
--Databricks: Python, PySpark, SQL, Notebooks, Jobs, Workflows and Medallion Architecture
+- **Databricks:** PySpark, SQL, Jobs, Workflows, Notebooks, Delta Lake, Unity Catalog and Medallion Architecture
 
--Azure Data Factory: Pipelines, Datasets, Linked Services, Triggers and ETL flows
+- **dbt:** Analytics engineering, Gold layer transformations, data modeling, tests and business-oriented data quality
 
--Azure: Data Lake, Storage Account, and Azure DevOps for versioning, branching, code review, and CI/CD in collaborative team environments
+- **Data Engineering:** ETL/ELT pipelines, ingestion frameworks, data validation, orchestration and automation
 
--SQL: Query development, data modeling and optimization across SQL Server, BigQuery and Amazon Redshift
+- **Modern Development Workflow:** Local development, Git, Pull Requests, code review, CI/CD, testing and automated deployment
 
--ETL: Data extraction, transformation, and loading across multiple sources and destinations
+- **Azure:** Data Lake Storage, Storage Account, Azure DevOps and cloud-based data engineering solutions
 
--Automation: n8n, Power Apps and Google Sheets integrations
+- **SQL:** Query development, data modeling and optimization across SQL Server, BigQuery and Amazon Redshift
 
--BI and Visualization: Power BI (DAX, M) and Looker
+- **Data Quality:** Validation rules, quality checks, controlled pipeline execution and reliable data delivery
+
+- **BI and Analytics:** Power BI, DAX, M, Looker and analytical data consumption
+
+- **Automation:** n8n, Power Apps and Google Sheets integrations
 
 ---
 
